@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "min_jme3it_nighty",
+    "username": "nighty",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "houmasmp67.aternos.me",
     "port": 25099,
-    "version": "1.20.1",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
